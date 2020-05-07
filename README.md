@@ -1,2 +1,4 @@
 # hello-world
-just a repository
+My first repository
+hi guys
+i like to play football
